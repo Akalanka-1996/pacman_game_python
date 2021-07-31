@@ -12,12 +12,12 @@ $ cd pacman_game_python
 Execute following command unless you have install freegames module in your local system.
 
 ```
-pip install freegames
+$ pip install freegames
 ```
 To run the python file, execute the following command.
 
 ```
-python app.py
+$ python app.py
 ```
 
 ### FreeGames documentation
